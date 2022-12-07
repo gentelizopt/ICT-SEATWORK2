@@ -1,0 +1,15 @@
+div{
+	border-color: #E7DED7;
+	border-style: dotted;
+	background-image: url(petshop.jpg);
+}
+td{
+background-color: #E0DBD6;opacity: 0.7;
+}
+table{
+	border-color: #C6B9AC;
+	border-style: solid;
+}
+#dogs{
+	background-color: #EADED2;
+}
